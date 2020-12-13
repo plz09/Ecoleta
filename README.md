@@ -3,7 +3,7 @@
  
  ### :computer: Project
 Ecoleta is a marketplace that helps  people to find garbage collection points inspired by World Environmental Day.
-This app was developed in the couse NLW1 from [Rocketseat](https://rocketseat.com.br/).
+This app was developed in the couse NLW1 of [Rocketseat](https://rocketseat.com.br/).
 
 ![imagem happy](https://github.com/plz09/Ecoleta-ReactJS/blob/master/ecoleta.png)
 
